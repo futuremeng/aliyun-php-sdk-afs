@@ -13,7 +13,7 @@
     },
     "autoload": {
          "psr-4": {
-           "afs\\Request\\V20180112":"aliyun-php-sdk-afs/afs/Request/V20180112"
+           "afs\\Request\\V20180112\\":"aliyun-php-sdk-afs/afs/Request/V20180112"
          },
         "classmap": [
            "aliyun-php-sdk-core/"
